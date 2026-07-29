@@ -1,0 +1,21 @@
+.container {
+  width: 450px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: green;
+}
+
+p {
+  font-size: 18px;
+}
