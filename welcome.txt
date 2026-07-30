@@ -1,0 +1,3 @@
+Welcome to the version control
+Git is easy to learn
+Git tracks every change
